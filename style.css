@@ -1,0 +1,28 @@
+body{
+    background-image:url("background.jpg") ;
+    background-size: cover;
+}
+h1
+{
+font-size: 29px;
+width: 100%;
+margin: 0px;
+color:black;
+font-weight: bold;
+background: #f0ad4e;
+font-family:cursive;
+padding: 12px;
+margin-top: 4px;
+}
+
+#status
+{
+font-size: 18px;
+
+}
+canvas{
+    box-shadow:10px 10px 10px #ffbb94;
+    border:1px solid #f4a272;
+    margin-top: 20px;
+}
+
